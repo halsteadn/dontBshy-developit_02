@@ -1,0 +1,9 @@
+body {
+    background-color:beige;
+    font-family: open-sans, arial, helvetica, sans-serif;
+}
+.box {
+        height: 150px;
+        width: 150px;
+        border: 20px solid yellow;
+    }
